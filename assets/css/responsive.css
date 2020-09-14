@@ -1,0 +1,14 @@
+@media(max-width: 800px){
+    body{
+        display: block;
+    }
+}
+
+@media(max-width: 600px){
+    .p-container{
+        width: 100%;
+    }
+    #gen-products .product p{
+        margin: 0 0 2px 0;
+    }
+}
